@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="20" viewBox="0 0 15 20">
+  <g id="list" transform="translate(-64)">
+    <g id="Group_10181" data-name="Group 10181" transform="translate(66.501 7.5)">
+      <g id="Group_10180" data-name="Group 10180">
+        <path id="Path_6068" data-name="Path 6068" d="M132.841,192.191a.627.627,0,0,0-.885,0l-2.058,2.059-.807-.809a.625.625,0,0,0-.884.884l1.25,1.25a.619.619,0,0,0,.441.184.628.628,0,0,0,.442-.182l2.5-2.5A.625.625,0,0,0,132.841,192.191Z" transform="translate(-128.024 -192.008)" fill="#4d75b8"/>
+      </g>
+    </g>
+    <g id="Group_10183" data-name="Group 10183" transform="translate(66.501 12.5)">
+      <g id="Group_10182" data-name="Group 10182">
+        <path id="Path_6069" data-name="Path 6069" d="M132.841,320.191a.627.627,0,0,0-.885,0l-2.058,2.059-.807-.807a.625.625,0,0,0-.884.884l1.25,1.25a.626.626,0,0,0,.884,0l2.5-2.5A.625.625,0,0,0,132.841,320.191Z" transform="translate(-128.024 -320.008)" fill="#4d75b8"/>
+      </g>
+    </g>
+    <g id="Group_10185" data-name="Group 10185" transform="translate(72.75 8.75)">
+      <g id="Group_10184" data-name="Group 10184">
+        <path id="Path_6070" data-name="Path 6070" d="M291.125,224h-2.5a.625.625,0,0,0,0,1.25h2.5a.625.625,0,0,0,0-1.25Z" transform="translate(-288 -224)" fill="#4d75b8"/>
+      </g>
+    </g>
+    <g id="Group_10187" data-name="Group 10187" transform="translate(72.75 13.75)">
+      <g id="Group_10186" data-name="Group 10186">
+        <path id="Path_6071" data-name="Path 6071" d="M291.125,352h-2.5a.625.625,0,0,0,0,1.25h2.5a.625.625,0,0,0,0-1.25Z" transform="translate(-288 -352)" fill="#4d75b8"/>
+      </g>
+    </g>
+    <g id="Group_10189" data-name="Group 10189" transform="translate(64)">
+      <g id="Group_10188" data-name="Group 10188">
+        <path id="Path_6072" data-name="Path 6072" d="M77.75,2.5h-2.5V1.875a.625.625,0,0,0-.625-.625H73.269a1.876,1.876,0,0,0-3.538,0H68.375a.625.625,0,0,0-.625.625V2.5h-2.5A1.252,1.252,0,0,0,64,3.75v15A1.252,1.252,0,0,0,65.25,20h12.5A1.252,1.252,0,0,0,79,18.75v-15A1.252,1.252,0,0,0,77.75,2.5ZM69,2.5h1.25a.625.625,0,0,0,.625-.625.625.625,0,0,1,1.25,0,.625.625,0,0,0,.625.625H74V3.75H69Zm8.75,16.25H65.25v-15h2.5v.625A.625.625,0,0,0,68.375,5h6.25a.625.625,0,0,0,.625-.625V3.75h2.5Z" transform="translate(-64)" fill="#4d75b8"/>
+      </g>
+    </g>
+  </g>
+</svg>

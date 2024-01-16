@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "63032809055",
+    "firebase_url": "https://ertaqee-99ac9.firebaseio.com",
+    "project_id": "ertaqee-99ac9",
+    "storage_bucket": "ertaqee-99ac9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63032809055:android:8c1b8470d44011b46c6dea",
+        "android_client_info": {
+          "package_name": "com.ertaqee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63032809055-ien13teqa38mjlgd9uo8b2kqg1j0ak77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnMd-0dUvcbB_0zBdP0yqbjzBiaSpCflM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63032809055-ien13teqa38mjlgd9uo8b2kqg1j0ak77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
